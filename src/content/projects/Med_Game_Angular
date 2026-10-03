@@ -1,0 +1,19 @@
+name: Med Game Angular
+description:
+  Sistema desenvolvido para que alunos de medicina treinem termos, nomes de ossos/musculos ou 
+diagnósticos por meio de testes com pontuação.
+addresses:
+  preview: https://github.com/ifpb/projects/blob/main/preview.png?raw=true
+  homepage: https://ifpb.github.io/projects/
+  repository: https://github.com/MariaLuizaSantana21/Med_Game_Angular.git
+category:
+  type: subject  # ou 'subject', 'research', 'extension', 'open source'
+  subject: pw1-cstsi-jp
+  period: 2026.2   
+tags:
+  - angular
+  - typescript
+  - java
+  - springboot
+owners:
+  - 20241370008
