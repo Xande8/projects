@@ -1,0 +1,15 @@
+name:
+  compact: Max Loureiro
+  full: Max Lé Loureiro de Araújo
+avatar:
+  github: https://github.com/loureiromaxx.png
+  githubUC: https://avatars.githubusercontent.com/u/267822872?v=4
+occupations:
+  - id: 202614320022
+    type: student
+    course: csbes-jp
+    isFinished: false
+addresses:
+  github: https://github.com/loureiromaxx
+  linkedin: https://www.linkedin.com/in/max-loureiro
+  email: loureiro.araujo@academico.ifpb.edu.br
