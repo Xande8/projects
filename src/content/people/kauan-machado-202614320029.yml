@@ -3,8 +3,9 @@ name:
   full: Kauan Machado dos Santos
 avatar:
   github: https://github.com/kauanmachadocode.png
+  githubUC: https://avatars.githubusercontent.com/u/277098080?v=4
 occupations:
-  - id: "202614320029"
+  - id: 202614320029
     type: student
     course: csbes-jp
     isFinished: false
@@ -12,4 +13,3 @@ addresses:
   github: https://github.com/kauanmachadocode
   linkedin: https://www.linkedin.com/in/kauanmachadocode
   email: kauanmachado.dev@gmail.com
-  
