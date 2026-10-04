@@ -1,0 +1,15 @@
+name:
+  compact: Williams Merencio
+  full: Williams Merencio De Lima Junior
+avatar:
+  github: https://github.com/williamsmerencio.png
+  githubUC: https://avatars.githubusercontent.com/u/274619069?v=4
+occupations:
+  - id: 202614320008
+    type: student
+    course: csbes-jp
+    isFinished: false
+addresses:
+  github: https://github.com/williamsmerencio
+  linkedin: https://www.linkedin.com/in/williams-merencio-de-lima-junior-671151441
+  email: uwillamu@gmail.com
