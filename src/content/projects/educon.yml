@@ -1,0 +1,20 @@
+name: Educon
+description: Um sistema simples, leve e intuitivo para a gestão de turmas e controle acadêmico em escolas.
+addresses:
+  repository: https://github.com/leandrosudo/educon
+category:
+  type: subject
+  subject: 
+    - pw2-csbes-jp
+    - ers-csbes-jp
+  period: 2026.2
+tags:
+  - html
+  - css
+  - javascript
+  - educacional
+owners:
+  - 202614320014
+  - 202614320030
+  - 202614320020
+  - 202524320012
