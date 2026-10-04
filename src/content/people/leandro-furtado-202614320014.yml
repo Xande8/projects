@@ -1,0 +1,15 @@
+name:
+  compact: Leandro Furtado
+  full: Leandro de Lacerda Furtado
+avatar:
+  github: https://github.com/leandrosudo.png
+  githubUC: https://avatars.githubusercontent.com/u/259728026?v=4
+occupations:
+  - id: 202614320014
+    type: student
+    course: csbes-jp
+    isFinished: false
+addresses:
+  github: https://github.com/leandrosudo
+  linkedin: https://www.linkedin.com/in/leandro-de-lacerda-furtado-3a8b46379
+  email: leandro.furtado@academico.ifpb.edu.br
