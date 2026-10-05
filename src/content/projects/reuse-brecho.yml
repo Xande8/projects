@@ -1,0 +1,25 @@
+name: ReUse Brechó
+description: Sistema Web para catálogo e gerenciamento de pedidos de um brechó, com integração do fluxo de atendimento via WhatsApp.
+
+addresses:
+  preview: https://github.com/Xande8/reuse-brecho/blob/main/preview.png?raw=true
+  homepage: https://xande8.github.io/reuse-brecho/
+  repository: https://github.com/Xande8/reuse-brecho
+  workflow: https://github.com/users/Xande8/projects/2/views/1
+
+category:
+  type: subject
+  subject: pw2-csbes-jp
+  period: 2026.2
+
+tags:
+  - html
+  - css
+  - javascript
+  - supabase
+  - postgresql
+  - whatsapp
+  - brecho
+
+owners:
+  - 20241370020
